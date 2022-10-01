@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "/Users/lauren/opt/anaconda3/bin/python",
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3",
     "python.linting.enabled": false
 }
