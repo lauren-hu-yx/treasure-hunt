@@ -1,7 +1,7 @@
 #
 # Lauren Hu - 2021
 #
-# Battleship Game Remix - Treasure Hunt
+# Battleship Game Rebranded - Treasure Hunt
 #
 
 
